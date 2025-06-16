@@ -1,4 +1,4 @@
-Python code:
+**Python code:**
 
 @client.tree.command(name="say", description="Make the bot say something that you want it to!")
 @app_commands.describe(content = "What do you want me to say?")
