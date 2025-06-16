@@ -2,8 +2,8 @@
 Your average Discord bot's "Say" command is right here! 
 
 # Remember to use python for this code to work!
-
-You also need a "On ready" event:
+(open the README so it works to copy)
+**You also need a "On ready" event:**
 
 @client.event
 async def on_ready():
